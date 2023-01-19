@@ -3,7 +3,8 @@ package peaksoft.model;
 import javax.persistence.*;
 
 @Table
-public class User {
+public class
+User {
     @Id
     private Long id;
 

@@ -2,6 +2,7 @@ package peaksoft.dao;
 
 import peaksoft.model.User;
 
+import java.sql.Connection;
 import java.util.List;
 
 public class UserDaoHibernateImpl implements UserDao {
