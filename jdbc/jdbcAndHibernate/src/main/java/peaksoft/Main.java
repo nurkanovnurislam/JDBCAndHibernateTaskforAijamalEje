@@ -26,5 +26,7 @@ public class Main {
 
 
 //        service.cleanUsersTable();
+
+//        service.cleanUsersTable();
     }
 }
